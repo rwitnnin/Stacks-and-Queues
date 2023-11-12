@@ -1,6 +1,7 @@
 # Stacks-and-Queues
 ![Screenshot 2023-11-12 230135](https://github.com/rwitnnin/Stacks-and-Queues/assets/150579607/80a16e47-5155-42a9-832a-5890c7dff23b)
 ![Screenshot 2023-11-12 233505](https://github.com/rwitnnin/Stacks-and-Queues/assets/150579607/e1941075-151a-4f14-9438-b601f8c2c732)
+![Screenshot 2023-11-12 233916](https://github.com/rwitnnin/Stacks-and-Queues/assets/150579607/acc7cf73-ac74-46bd-979b-bb9ff45b9a47)
 ![Screenshot 2023-11-12 233518](https://github.com/rwitnnin/Stacks-and-Queues/assets/150579607/d3f5ea42-2e14-4344-a4f4-2ab4e9f9d2b0)
 
 คลาส Stack
